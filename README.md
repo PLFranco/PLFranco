@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Paul Laurean F. Franco
-About Me
+#About Me
 I'm passionate about quality assurance and software testing, aiming to become a proficient QA Engineer. Currently, I'm immersed in a challenging project focused on developing a Health Care system.
 
 What I'm Working On
