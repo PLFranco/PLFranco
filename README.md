@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21847
-Fork on GitHub6954
 <h1 align="center">Hi 👋, I'm Paul Laurean F. Franco</h1>
 <h3 align="center">QA Engineer: The Gatekeeper of Software Excellence</h3>
 
