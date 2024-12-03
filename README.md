@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Laurean F. Franco</h1>
-<h3 align="center">QA Engineer: The Gatekeeper of Software Excellence</h3>
+<h3 align="center">QA Assurance Tester: The Gatekeeper of Software Excellence</h3>
 
 - 🌱 I’m currently learning **Selenium and Playwright using Python**
 
