@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Software Testing, Manual Testing, Automated Testing**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
