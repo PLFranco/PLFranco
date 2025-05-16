@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Paul Laurean F. Franco</h1>
-<h3 align="center">QA Assurance Tester: The Gatekeeper of Software Excellence</h3>
+<h1 align="center">Hi 👋, I'm Paul Laurean</h1>
+<h3 align="center">Software Quality Assurance Tester</h3>
 
-- 🌱 I’m currently learning **Selenium and Playwright using Python**
+- 🌱 I’m currently learning **Selenium and Playwright**
 
 - 💬 Ask me about **Software Testing, Manual Testing, Automated Testing**
 
